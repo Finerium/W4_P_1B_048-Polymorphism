@@ -1,0 +1,30 @@
+=== Numbers.java (input: 5 angka -> 8 3 15 1 22) ===
+
+How many integers do you want to sort?
+Enter the numbers...
+
+Your numbers in sorted order...
+22 15 8 3 1
+
+=== Strings.java (input: 4 string -> banana apple cherry date) ===
+
+How many strings do you want to sort?
+Enter the strings...
+
+Your strings in sorted order...
+date cherry banana apple
+
+=== WeeklySales.java ===
+
+Ranking of Sales for the Week
+
+Taylor, Harry: 	7300
+Adams, Andy: 	5000
+Duck, Daffy: 	4935
+Smith, Walt: 	3000
+Jones, Jane: 	3000
+Jones, James: 	3000
+Black, Jane: 	3000
+Doe, Jim: 	2850
+Walter, Dick: 	2800
+Trump, Don: 	1570
