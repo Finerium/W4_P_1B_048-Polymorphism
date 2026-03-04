@@ -1,0 +1,8 @@
+Computing amount for Rectangle of length 20.0 and width 35.0
+Computing amount for Sphere of radius 15.0
+Computing amount for Cylinder of radius 10.0 and height 30.0
+
+Number of gallons of paint needed...
+Deck 2
+Big Ball 8,1
+Tank 26,9
